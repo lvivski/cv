@@ -8,7 +8,7 @@ Yehor Lvivski
 Passionate Software Developer / UI Technologist with over 8 years’ experience in creating products for both Enterprise and Small Business. Knows how to create products, that attract customers, solve their problems and increase sales. Interactive UI and data visualization expert. Was using CSS Animations in 2009, WebSQL in 2010, WebSockets and Node.js in 2011, WebRTC in 2013, WebGL in 2014 and our products succeeded.
 
 ### Specialities
-Numerical analysis, data visualization, user interraction, user interface design, animations, prototyping, development tools
+Numerical analysis, data visualization, user interaction, user interface design, animations, prototyping, development tools
 
 ### Technologies
 #### Client-side
