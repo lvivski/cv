@@ -36,8 +36,12 @@ _and many more_
 Bachelor's Degree, Computer literacy and information technology, _2005 — 2009_
 
 ### Experience
+#### Software Engineer II at _[Microsoft](http://microsoft.com "Microsoft")_
+###### Mar 2017 — Present
+* Successfully launched Microsoft To-Do.
+
 #### Senior Software Engineer at _[SpatialKey](http://spatialkey.com "SpatialKey")_
-###### May 2013 — Present
+###### May 2013 — Feb 2017
 * Implemented PDF reports to optimize analysis results export.
 * Expanded customer base by creating new iPad-optimized web-apps.
 * Reduced time to first POC or MVP by developing a Web components library.
