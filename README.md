@@ -36,9 +36,16 @@ _and many more_
 Bachelor's Degree, Computer literacy and information technology, _2005 — 2009_
 
 ### Experience
-#### Software Engineer II at _[Microsoft](http://microsoft.com "Microsoft")_
-###### Mar 2017 — Present
+#### Senior Software Engineering Manager at _[Microsoft](http://microsoft.com "Microsoft")_
+###### Feb 2018 — Present
 * Successfully launched Microsoft To-Do.
+
+#### Senior Software Development Engineer at _[Microsoft](http://microsoft.com "Microsoft")_
+###### Mar 2017 — Feb 2018
+* Optimized search and suggestions algorythms. Went from O(n^2) to O(n), 100x performance boost on average.
+* Implemented continuous and compliant deployment process.
+* Optimized development workflows.
+* Integrated To-Do into other products
 
 #### Senior Software Engineer at _[SpatialKey](http://spatialkey.com "SpatialKey")_
 ###### May 2013 — May 2017
